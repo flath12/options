@@ -1,0 +1,1 @@
+{"target_n": 100, "verbose": false, "target_n_top_yields": 50, "delta": 0.97, "fwd": 20, "target_n_top_vol": 20, "starting_capital": 1000000, "max_size": 0.05, "min_yield": 0.05}

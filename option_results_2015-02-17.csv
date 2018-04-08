@@ -1,2 +1,0 @@
-ticker,trade_date,expiry,current,strike,delta,c_date,c_bid,c_ask,c_mid,f_date,f_bid,f_ask,f_mid,gross_profit,s_yield,a_yield,target_notional,contracts,actual_notional,total_profit,ending_total
-WNR,2015-02-17,2015-03-20,41.15,37.0,-0.1,2015-02-17,0.4,0.6,0.466,2015-03-20,0.0,0.15,0.101,0.365,0.0126,0.1565,100315.72,27.0,99900.0,985.5,101301.22

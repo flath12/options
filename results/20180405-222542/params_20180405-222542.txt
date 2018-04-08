@@ -1,0 +1,1 @@
+{"outlier_break": 0.0, "target_n": 100, "verbose": false, "target_n_top_yields": 100, "delta": 0.9, "fwd": 20, "target_n_top_vol": 10, "starting_capital": 1000000, "max_size": 0.05, "min_yield": 0.05}
